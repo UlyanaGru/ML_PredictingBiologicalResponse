@@ -30,8 +30,8 @@
 - **Валидация**: Стратифицированная K-кратная кросс-валидация  
 
 ## Репозиторий  
-- [Ссылка на GitHub]()  
-- **Лицензия**: [MIT]()  
+- [Ссылка на GitHub](https://github.com/UlyanaGru/ML_PredictingBiologicalResponse/blob/master/PredictingBiologicalResponse.ipynb)  
+- **Лицензия**: [MIT](https://github.com/UlyanaGru/ML_PredictingBiologicalResponse/blob/master/LICENSE)  
 
 ## Участие и обратная связь  
 Приветствуются предложения по:  
