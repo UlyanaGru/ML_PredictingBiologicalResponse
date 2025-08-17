@@ -40,3 +40,6 @@
 - **Оптимизации кода**: Параллелизация, эффективный подбор гиперпараметров.  
 
 ---
+
+![Распределние признаков типа int](https://github.com/UlyanaGru/ML_PredictingBiologicalResponse/blob/master/plots/distributions_int.png)
+![Распределние признаков типа float](https://github.com/UlyanaGru/ML_PredictingBiologicalResponse/blob/master/plots/distributions_float.png)
